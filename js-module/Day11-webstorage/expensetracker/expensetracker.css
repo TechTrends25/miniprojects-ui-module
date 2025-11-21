@@ -1,0 +1,15 @@
+.add-expense {
+    margin: 0 20px;
+}
+
+.expenses-list-items {
+    padding: 0;
+}
+
+.expense-list-item {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 20px;
+    margin: 20px 0;
+}
