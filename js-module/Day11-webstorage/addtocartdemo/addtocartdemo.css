@@ -1,0 +1,16 @@
+.product-list-items {
+    padding: 0;
+}
+
+.product-item {
+    display: flex;
+    justify-content: space-between;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 20px 0;
+    list-style: none;
+}
+
+.shopping-list-items {
+    padding: 0;
+}
